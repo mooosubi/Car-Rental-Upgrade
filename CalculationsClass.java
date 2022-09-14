@@ -10,7 +10,7 @@ public class CalculationsClass {
   private static int totalNumPeople = 0;
   private static double totalReceived = 0.00;  
 
-  //create a class constructor
+  //create a class constr.uctor
   //its the first method that runs in the class
   //it really just sets things up
   //the constructor has the same name as the class
